@@ -9,6 +9,9 @@
             </b-list-group-item>
             <b-list-group-item>
               <b-row class="job-detail__content">
+                <b-col sm="12" class="job-detail__media">
+                  <b-img :src="jobDetail[0].imageUrl" rounded="circle" alt="Circle image"></b-img>
+                </b-col>
                 <b-col sm="4"><b>İlan Tarihi</b></b-col>
                 <b-col sm="8">{{ jobDetail[0].durationDayText }}</b-col>
                 <b-col sm="4"><b>Pozisyon</b></b-col>
@@ -102,6 +105,13 @@ export default {
     text-align: left;
     div {
       margin-bottom: 8px;
+    }
+  }
+  &__media {
+    text-align: center;
+    margin-bottom: 2rem;
+    img {
+      height: 150px;
     }
   }
 }
