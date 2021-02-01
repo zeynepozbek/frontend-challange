@@ -1,0 +1,61 @@
+{
+  "version":"1.0",
+  "statusCode":200,
+  "result":{
+    "items":[
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FA",
+        "positionName":"React Yazılım Uzmanı",
+        "companyName":"B2BStore",
+        "durationDay":0,
+        "durationDayText":"28.01.2021",
+        "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/ 13920170713010155805.jpg",
+        "distance":"8,53 km yakınında",
+        "latitude":41.050968170166023,
+        "longitude":29.062856674194339,
+        "cityName":"Ankara",
+        "townName":"Çankaya"
+      },
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName":"Yazılım Uzmanı",
+        "companyName":"Sektöründe Lider Firma",
+        "durationDay":0,
+        "durationDayText":"10.12.2020",
+        "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/ 13920170713010155805.jpg",
+        "distance":"8,53 km yakınında",
+        "latitude":41.050968170166023,
+        "longitude":29.062856674194339,
+        "cityName":"Ankara",
+        "townName":"Bolvadin"
+      },
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FC",
+        "positionName":"Remote .Net Developer",
+        "companyName":"Novartz Bilişim",
+        "durationDay":0,
+        "durationDayText":"31.01.2021",
+        "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/ 13920170713010155805.jpg",
+        "distance":"8,53 km yakınında",
+        "latitude":41.050968170166023,
+        "longitude":29.062856674194339,
+        "cityName":"İZMİR",
+        "townName":"Alsancak"
+      },
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FD",
+        "positionName":"Remote Frontend Developer",
+        "companyName":"Biz Bilişim",
+        "durationDay":0,
+        "durationDayText":"31.01.2021",
+        "imageUrl":"http://localhost/bluecollar/Company/Job/000/000/000/avatar/ 13920170713010155805.jpg",
+        "distance":"8,53 km yakınında",
+        "latitude":41.050968170166023,
+        "longitude":29.062856674194339,
+        "cityName":"İstanbul",
+        "townName":"Avcılar"
+      }
+    ],
+    "total":1
+  }
+}

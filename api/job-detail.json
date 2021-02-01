@@ -1,0 +1,104 @@
+{
+  "version":"1.0",
+  "statusCode":200,
+  "result":{
+    "items": [
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FA",
+        "positionName":"React Yazılım Uzmanı",
+        "companyName":"B2BStore",
+        "durationDay":0,
+        "durationDayText":"28.01.2021",
+        "imageUrl":"https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode":"TR",
+        "countryName":"Turkey",
+        "cityName":"Ankara",
+        "townName":"Çankaya",
+        "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Çankaya/Ankara Turkey",   "postalCode":34768,
+        "hasLatitude":true,
+        "hasLongitude":true,
+        "latitude":41.0266502,
+        "longitude":29.1157803,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi harum illo magnam minus odio possimus, quam quo sint tempora velit voluptas? Esse explicabo harum libero minima nobis nostrum ratione.",
+        "status":1,
+        "contactPhone":{
+          "countryCallingCode":"+90",
+          "areaCode":"879",
+          "number":"9797979"
+        }
+      },
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName":"Yazılım Uzmanı",
+        "companyName":"Sektöründe Lider Firma",
+        "durationDay":0,
+        "durationDayText":"10.12.2020",
+        "imageUrl":"https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode":"TR",
+        "countryName":"Turkey",
+        "cityName":"Ankara",
+        "townName":"Bolvadin",
+        "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Bolvadin/Ankara Turkey",   "postalCode":34768,
+        "hasLatitude":true,
+        "hasLongitude":true,
+        "latitude":41.0266502,
+        "longitude":29.1157803,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi harum illo magnam minus odio possimus, quam quo sint tempora velit voluptas? Esse explicabo harum libero minima nobis nostrum ratione.",
+        "status":1,
+        "contactPhone":{
+          "countryCallingCode":"+90",
+          "areaCode":"879",
+          "number":"9797979"
+        }
+      },
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FC",
+        "positionName":"Remote .Net Developer",
+        "companyName":"Novartz Bilişim",
+        "durationDay":0,
+        "durationDayText":"31.01.2021",
+        "imageUrl":"https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode":"TR",
+        "countryName":"Turkey",
+        "cityName":"İZMİR",
+        "townName":"Alsancak",
+        "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Alsancak/İZMİR Turkey",   "postalCode":34768,
+        "hasLatitude":true,
+        "hasLongitude":true,
+        "latitude":41.0266502,
+        "longitude":29.1157803,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi harum illo magnam minus odio possimus, quam quo sint tempora velit voluptas? Esse explicabo harum libero minima nobis nostrum ratione.",
+        "status":1,
+        "contactPhone":{
+          "countryCallingCode":"+90",
+          "areaCode":"879",
+          "number":"9797979"
+        }
+      },
+      {
+        "jobId":"C71CD1954BA149BCAF42B25F775EA4FD",
+        "positionName":"Remote Frontend Developer",
+        "companyName":"Biz Bilişim",
+        "durationDay":0,
+        "durationDayText":"31.01.2021",
+        "imageUrl":"https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode":"TR",
+        "countryName":"Turkey",
+        "cityName":"İstanbul",
+        "townName":"Avcılar",
+        "address":"Saray Mahallesi Site Yolu Sokak No:7 34768 Avcılar/İstanbul Turkey",   "postalCode":34768,
+        "hasLatitude":true,
+        "hasLongitude":true,
+        "latitude":41.0266502,
+        "longitude":29.1157803,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio excepturi harum illo magnam minus odio possimus, quam quo sint tempora velit voluptas? Esse explicabo harum libero minima nobis nostrum ratione.",
+        "status":1,
+        "contactPhone":{
+          "countryCallingCode":"+90",
+          "areaCode":"879",
+          "number":"9797979"
+        }
+      }
+    ]
+  }
+}
